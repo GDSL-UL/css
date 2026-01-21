@@ -3,8 +3,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/118b2017-8bd4-429f-9bff-875f96cfaf52/deploy-status)](https://app.netlify.com/sites/resonant-kulfi-78f792/deploys)
 
 **Authors:**  
-[Carmen Cabrera](http://www.c-cabrera.com/),
-[Francisco Rowe](http://www.franciscorowe.com/) and
+[Francisco Rowe](http://www.franciscorowe.com/),
+[Carmen Cabrera](http://www.c-cabrera.com/) and
 [Elisabetta Pietrostefani](http://www.pietrostefani.com/)
 
 
@@ -15,6 +15,13 @@ This repository contains the teaching materials, code and data used to support t
 
 The materials combine social science theory with practical training in data analysis, statistical modelling, machine learning and spatial and network methods. They are designed for students from both social science and computational backgrounds who wish to develop applied skills for analysing contemporary social and population data.
 
+## Background and provenance
+
+This repository builds on earlier teaching materials developed for the course *Population Data Science*. The original materials were hosted at [https://github.com/fcorowe/r4ps](https://github.com/fcorowe/r4ps) and were designed by Prof Francisco Rowe, Dr Carmen Cabrera and Dr Elisabetta Pietrostefani.
+
+The present repository represents a revised and expanded version of the course under the new title *Computational Social Science*. The previous version of the course remains available at:
+
+🔗 [https://github.com/fcorowe/r4ps](https://github.com/fcorowe/r4ps)
 
 
 ## Contents
@@ -32,13 +39,11 @@ All materials are intended for use as part of the course and can be reproduced u
 This repository is designed to support reproducible research and teaching. All analyses can be reproduced using the provided code and data, subject to data access restrictions where applicable. Detailed instructions for setting up the computational environment and running the materials are provided in the relevant folders.
 
 
-
 ## Course website
 
 The course materials are available online at: 
 
 🔗 [http://computational-social-science.com/](http://computational-social-science.com/)
-
 
 
 ## License
@@ -51,7 +56,7 @@ Unless otherwise stated, all code in this repository is licensed under the MIT L
 ## Contact
 
 For questions, suggestions or contributions, please contact the course authors:
-
-- Carmen Cabrera — [http://www.c-cabrera.com/](http://www.c-cabrera.com/)  
-- Francisco Rowe — [http://www.franciscorowe.com/]((http://www.franciscorowe.com/))  
+ 
+- Francisco Rowe — [http://www.franciscorowe.com/]((http://www.franciscorowe.com/)) 
+- Carmen Cabrera — [http://www.c-cabrera.com/](http://www.c-cabrera.com/) 
 - Elisabetta Pietrostefani — [http://www.pietrostefani.com/](http://www.pietrostefani.com/)  
