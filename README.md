@@ -1,7 +1,6 @@
 # Computational Social Science
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/118b2017-8bd4-429f-9bff-875f96cfaf52/deploy-status)](https://app.netlify.com/sites/resonant-kulfi-78f792/deploys)
-
+[![DOI](https://zenodo.org/badge/1139101562.svg)](https://doi.org/10.5281/zenodo.18329717)
 
 
 
