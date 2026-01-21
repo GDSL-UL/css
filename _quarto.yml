@@ -21,7 +21,7 @@ book:
     style: docked
     background: light
   downloads: [pdf, epub]
-  cover-image: source-dall-e.png
+  cover-image: css.png
   cover-image-alt: |
     Alternative text describing the book cover
   chapters:
