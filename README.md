@@ -2,11 +2,19 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/118b2017-8bd4-429f-9bff-875f96cfaf52/deploy-status)](https://app.netlify.com/sites/resonant-kulfi-78f792/deploys)
 
+
+
+
 **Authors:**  
 [Francisco Rowe](http://www.franciscorowe.com/),
 [Carmen Cabrera](http://www.c-cabrera.com/) and
 [Elisabetta Pietrostefani](http://www.pietrostefani.com/)
 
+## Citation
+
+If you use these materials, please cite:
+
+Rowe, F., Cabrera, C., and Pietrostefani, E. (2026). *Computational Social Science*. Zenodo. [https://doi.org/10.5281/zenodo.18329718](https://doi.org/10.5281/zenodo.18329718).
 
 
 ## Overview
@@ -14,6 +22,8 @@
 This repository contains the teaching materials, code and data used to support the course **Computational Social Science**. The course introduces students to the theoretical foundations, data sources and computational methods used to study human behaviour, social interactions and population processes at scale.
 
 The materials combine social science theory with practical training in data analysis, statistical modelling, machine learning and spatial and network methods. They are designed for students from both social science and computational backgrounds who wish to develop applied skills for analysing contemporary social and population data.
+
+
 
 ## Background and provenance
 
@@ -57,6 +67,6 @@ Unless otherwise stated, all code in this repository is licensed under the MIT L
 
 For questions, suggestions or contributions, please contact the course authors:
  
-- Francisco Rowe — [http://www.franciscorowe.com/]((http://www.franciscorowe.com/)) 
+- Francisco Rowe — [http://www.franciscorowe.com/](http://www.franciscorowe.com/)) 
 - Carmen Cabrera — [http://www.c-cabrera.com/](http://www.c-cabrera.com/) 
 - Elisabetta Pietrostefani — [http://www.pietrostefani.com/](http://www.pietrostefani.com/)  
