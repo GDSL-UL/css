@@ -1,7 +1,6 @@
-# Computational Social Science
+# A course on Computational Social Science
 
 [![DOI](https://zenodo.org/badge/1139101562.svg)](https://doi.org/10.5281/zenodo.18329717)
-
 
 
 **Authors:**  
@@ -15,13 +14,20 @@ If you use these materials, please cite:
 
 Rowe, F., Cabrera, C., and Pietrostefani, E. (2026). *Computational Social Science*. Zenodo. [https://doi.org/10.5281/zenodo.18329718](https://doi.org/10.5281/zenodo.18329718).
 
+## Teaching team
+
+The teaching team for the academic year 2025-26 consists of:
+- Dr Carmen Cabrera  
+- Prof Francisco Rowe  
+- Dr Olga Gkountouna  
+
+The module coordinator is **Carmen Cabrera**.
 
 ## Overview
 
 This repository contains the teaching materials, code and data used to support the course **Computational Social Science**. The course introduces students to the theoretical foundations, data sources and computational methods used to study human behaviour, social interactions and population processes at scale.
 
 The materials combine social science theory with practical training in data analysis, statistical modelling, machine learning and spatial and network methods. They are designed for students from both social science and computational backgrounds who wish to develop applied skills for analysing contemporary social and population data.
-
 
 
 ## Background and provenance
@@ -66,6 +72,6 @@ Unless otherwise stated, all code in this repository is licensed under the MIT L
 
 For questions, suggestions or contributions, please contact the course authors:
  
-- Francisco Rowe — [http://www.franciscorowe.com/](http://www.franciscorowe.com/)) 
+- Francisco Rowe — [http://www.franciscorowe.com/](http://www.franciscorowe.com/)
 - Carmen Cabrera — [http://www.c-cabrera.com/](http://www.c-cabrera.com/) 
 - Elisabetta Pietrostefani — [http://www.pietrostefani.com/](http://www.pietrostefani.com/)  
