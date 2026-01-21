@@ -1,0 +1,22 @@
+# Welcome {.unnumbered}
+
+This is the website for "Computational Social Science". This is a course designed by Dr Carmen Cabrera, Prof Francisco Rowe and Dr Elisabetta Pietrostefani, and currently delivered by Dr Carmen Cabrera, Prof Francisco Rowe and Dr Olga Gkountouna, from the Geographic Data Science Lab at the University of Liverpool, United Kingdom. Through a series of hands-on computational notebooks, you will learn data science methods to address social science questions, including supervised and unsupervised machine learning approaches, network analysis and time series analysis methods.
+
+The website is *free to use* and is licensed under the [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/). A compilation of this web course is hosted as a GitHub repository that you can access:
+
+-   As a [download](https://github.com/ul-css/r4ps/archive/refs/heads/main.zip) of a `.zip` file that contains all the materials.
+-   As an [html website](https://gdsl-ul.github.io/css/).
+-   As a [pdf document](https://gdsl-ul.github.io/css/Computational-Social-Science.pdf)
+-   As a [GitHub repository](https://github.com/GDSL-UL/css).
+
+## Contacts for 2025-26 {.unnumbered}
+
+-   **Module lead:** ***Dr Carmen Cabrera*** - c.cabrera \[at\] liverpool.ac.uk - Lecturer in Geographic Data Science
+
+-   *Prof Francisco Rowe* - fcorowe \[at\] liverpool.ac.uk - Professor in Population Data Science
+
+-   *Dr Olga Gkountouna* - olga.gkountouna \[at\] liverpool.ac.uk - Lecturer in Geographic Data Science
+
+
+
+    Find us in Roxby Building, University of Liverpool, UK

@@ -1,0 +1,53 @@
+project:
+  type: book
+
+book:
+  title: "Computational Social Science"
+  author: "Carmen Cabrera, Francisco Rowe, Elisabetta Pietrostefani"
+  date: today
+
+  page-footer:
+    left: |
+      Computational Social Science was written by Carmen Cabrera, Francisco Rowe, Elisabetta Pietrostefani.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+
+  search: true
+  site-url: https://gdsl-ul.github.io/css/
+  repo-url: https://github.com/GDSL-UL/css
+  repo-actions: [edit]
+  sharing: [twitter, facebook]
+  sidebar:
+    style: docked
+    background: light
+  downloads: [pdf, epub]
+  cover-image: source-dall-e.png
+  cover-image-alt: |
+    Alternative text describing the book cover
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - intro-css.qmd
+    - geodemographics.qmd
+    - sequence-analysis.qmd
+    - network.qmd
+    - sentiment-analysis.qmd
+    - topic-modelling.qmd
+    - longitudinal-1.qmd
+    - longitudinal-2.qmd
+    - machine-learning.qmd
+    - data-sets.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: ember.scss
+    css: styles.css
+#    prefer-html: true
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
