@@ -26,7 +26,7 @@ book:
     Alternative text describing the book cover
   chapters:
     - index.qmd
-    - intro.qmd
+    - overview.qmd
     - intro-css.qmd
     - geodemographics.qmd
     - sequence-analysis.qmd
