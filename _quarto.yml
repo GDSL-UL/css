@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Computational Social Science"
@@ -13,8 +14,8 @@ book:
       This book was built with <a href="https://quarto.org/">Quarto</a>.
 
   search: true
-  site-url: https://www.population-science.net
-  repo-url: https://github.com/fcorowe/r4ps
+  site-url: https://gdsl-ul.github.io/css/
+  repo-url: https://github.com/GDSL-UL/css
   repo-actions: [edit]
   sharing: [twitter, facebook]
   sidebar:
