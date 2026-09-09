@@ -1,1 +1,1 @@
-Sitemap: https://gdsl-ul.github.io/css/sitemap.xml
+Sitemap: https://computational-social-science.com/sitemap.xml
