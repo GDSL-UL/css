@@ -1,7 +1,12 @@
-# Population Science
+# Computational Social Science
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/118b2017-8bd4-429f-9bff-875f96cfaf52/deploy-status)](https://app.netlify.com/sites/resonant-kulfi-78f792/deploys)
+Course materials, R code, and datasets for Computational Social Science, developed by the Geographic Data Science Lab at the University of Liverpool. The course uses hands-on computational notebooks to explore social science questions through geodemographics, sequence analysis, network analysis, sentiment analysis, topic modelling, longitudinal analysis and machine learning.
 
-[Francisco Rowe](http://www.franciscorowe.com/)\[[`@fcorowe`](http://twitter.com/fcorowe)\], Carmen Cabrera-Arnau, [Elisabetta Pietrostefani](http://www.pietrostefani.com/)\[[`@EPietrostefani`](https://twitter.com/EPietrostefani)\]
+Designed by Francisco Rowe, Carmen Cabrera and Elisabetta Pietrostefani. The teaching team listed for 2026-27 is Carmen Cabrera (module lead), Francisco Rowe, and Olga Gkountouna.
 
-This repository contains the code and data to reproduce the materials for the course Population Science.
+-   [Course website](https://computational-social-science.com/)
+-   [GitHub repository](https://github.com/GDSL-UL/css)
+-   [Download the repository as a ZIP](https://github.com/GDSL-UL/css/archive/refs/heads/main.zip)
+-   [Deployment status and history](https://github.com/GDSL-UL/css/actions)
+
+The course builds on the earlier [Population Data Science course](https://github.com/fcorowe/r4ps).
